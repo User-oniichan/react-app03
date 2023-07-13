@@ -8,7 +8,7 @@ const Contador1 = () => {
     }
     return (
         <Fragment>
-            <h3>Mi primer componente</h3>
+            <h3>Mi primer componente: {numero}</h3>
             <button onClick={aumentar}>Aumentar</button>
         </Fragment>
     )
