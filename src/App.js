@@ -12,6 +12,7 @@ function App() {
     <div>
       <h1>Primer componente</h1>
       <C01componente/>
+      <hr/>
       <h1>Segundo componente</h1> 
       <Contador1/>
       <hr/>
